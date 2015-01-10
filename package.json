@@ -24,6 +24,6 @@
     "lodash": "^2.4.1",
     "needs": "^0.1.5",
     "sira": "git://github.com/taoyuan/sira",
-    "sira-core": "git://github.com/taoyuan/sira-core"
+    "sira-core": "lizhaogai/sira-core"
   }
 }
